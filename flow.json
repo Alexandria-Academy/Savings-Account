@@ -4,6 +4,8 @@
 			"source": "testnet://9a0766d93b6608b7.Burner",
 			"hash": "71af18e227984cd434a3ad00bb2f3618b76482842bae920ee55662c37c8bf331",
 			"aliases": {
+				"emulator": "f8d6e0586b0a20c7",
+				"mainnet": "f233dcee88fe0abe",
 				"testnet": "9a0766d93b6608b7"
 			}
 		},
@@ -74,6 +76,13 @@
 			"key": {
 				"type": "file",
 				"location": "emulator-account.pkey"
+			}
+		},
+		"ownership": {
+			"address": "e53bbc80271c68dd",
+			"key": {
+				"type": "file",
+				"location": "ownership.pkey"
 			}
 		}
 	}
